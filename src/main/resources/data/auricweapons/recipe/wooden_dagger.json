@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "S"
+  ],
+  "key": {
+    "M": "#minecraft:planks",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "auricweapons:wooden_dagger",
+    "count": 1
+  }
+}

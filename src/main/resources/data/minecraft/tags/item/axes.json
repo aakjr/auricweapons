@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "auricweapons:wooden_daxe",
+    "auricweapons:stone_daxe",
+    "auricweapons:iron_daxe",
+    "auricweapons:golden_daxe",
+    "auricweapons:diamond_daxe",
+    "auricweapons:netherite_daxe"
+  ]
+}

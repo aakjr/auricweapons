@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "auricweapons:wooden_dagger",
+    "auricweapons:stone_dagger",
+    "auricweapons:iron_dagger",
+    "auricweapons:golden_dagger",
+    "auricweapons:diamond_dagger",
+    "auricweapons:netherite_dagger",
+    "auricweapons:wooden_scythe",
+    "auricweapons:stone_scythe",
+    "auricweapons:iron_scythe",
+    "auricweapons:golden_scythe",
+    "auricweapons:diamond_scythe",
+    "auricweapons:netherite_scythe"
+  ]
+}

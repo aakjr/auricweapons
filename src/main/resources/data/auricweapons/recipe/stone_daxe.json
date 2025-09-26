@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "MSM",
+    " S "
+  ],
+  "key": {
+    "M": "#c:cobblestones",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "auricweapons:stone_daxe",
+    "count": 1
+  }
+}

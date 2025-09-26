@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMC",
+    " SM",
+    "S  "
+  ],
+  "key": {
+    "M": "#minecraft:planks",
+    "S": "minecraft:echo_shard",
+    "C": "minecraft:heavy_core"
+  },
+  "result": {
+    "id": "auricweapons:wooden_scythe",
+    "count": 1
+  }
+}

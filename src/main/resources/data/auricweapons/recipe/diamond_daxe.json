@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "MSM",
+    " S "
+  ],
+  "key": {
+    "M": "minecraft:diamond",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "auricweapons:diamond_daxe",
+    "count": 1
+  }
+}
